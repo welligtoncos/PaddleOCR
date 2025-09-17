@@ -1,0 +1,14 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Binários grandes
+*.pyd
+*.dll
+*.so
+*.dylib
+
+# Diretórios de libs locais
+projeto_11pag_PaddleOCR/ocr310/Lib/
